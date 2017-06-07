@@ -1,0 +1,21 @@
+{
+    "name": "ukparliamentdata",
+    "version": "1.0.0",
+    "description": "A package for accessing the JSON data from the UK Parliament Open Data APIs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+      "name": "Steven Collins",
+      "github": "https://github.com/CarbonCollins"
+    },
+    "repository": {
+      "type": "github",
+      "url": "https://github.com/CarbonCollins/ukparliamentdata-nodejs"
+    },
+    "bugs": {
+      "url": "https://github.com/CarbonCollins/ukparliamentdata-nodejs/issues"
+    },
+    "license": "MIT"
+}
